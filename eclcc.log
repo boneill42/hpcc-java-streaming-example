@@ -1,0 +1,19 @@
+00000000 2015-05-11 12:44:08  9136  9136 Loading plugin /opt/HPCCSystems/plugins/liblogging.so[lib_logging] version = LOGGING 1.0.1
+00000001 2015-05-11 12:44:08  9136  9136 Warning: Could not load /opt/HPCCSystems/plugins/libmemcached.so: libmemcached.so.10: cannot open shared object file: No such file or directory
+00000002 2015-05-11 12:44:08  9136  9136 Loading plugin /opt/HPCCSystems/plugins/libauditlib.so[lib_auditlib] version = AUDITLIB 1.0.1
+00000003 2015-05-11 12:44:08  9136  9136 Plugin /opt/HPCCSystems/plugins/libcassandraembed.so exports getECLPluginDefinition but does not export ECL - not loading
+00000004 2015-05-11 12:44:08  9136  9136 Plugin /opt/HPCCSystems/plugins/libsqlite3embed.so exports getECLPluginDefinition but does not export ECL - not loading
+00000005 2015-05-11 12:44:08  9136  9136 Loading plugin /opt/HPCCSystems/plugins/libfileservices.so[lib_fileservices] version = FILESERVICES 2.1.3
+00000006 2015-05-11 12:44:08  9136  9136 Plugin /opt/HPCCSystems/plugins/libpyembed.so exports getECLPluginDefinition but does not export ECL - not loading
+00000007 2015-05-11 12:44:08  9136  9136 Loading plugin /opt/HPCCSystems/plugins/libstringlib.so[lib_stringlib] version = STRINGLIB 1.1.14
+00000008 2015-05-11 12:44:08  9136  9136 Plugin /opt/HPCCSystems/plugins/libmysqlembed.so exports getECLPluginDefinition but does not export ECL - not loading
+00000009 2015-05-11 12:44:08  9136  9136 Loading plugin /opt/HPCCSystems/plugins/libparselib.so[lib_parselib] version = PARSELIB 1.0.1
+0000000A 2015-05-11 12:44:08  9136  9136 Plugin /opt/HPCCSystems/plugins/libdmetaphone.so exports getECLPluginDefinition but does not export ECL - not loading
+0000000B 2015-05-11 12:44:08  9136  9136 Warning: Could not load /opt/HPCCSystems/plugins/libRembed.so: libR.so: cannot open shared object file: No such file or directory
+0000000C 2015-05-11 12:44:08  9136  9136 Plugin /opt/HPCCSystems/plugins/libjavaembed.so exports getECLPluginDefinition but does not export ECL - not loading
+0000000D 2015-05-11 12:44:08  9136  9136 Plugin /opt/HPCCSystems/plugins/libredis.so exports getECLPluginDefinition but does not export ECL - not loading
+0000000E 2015-05-11 12:44:08  9136  9136 Loading plugin /opt/HPCCSystems/plugins/libtimelib.so[lib_timelib] version = TIMELIB 1.0.0
+0000000F 2015-05-11 12:44:08  9136  9136 Loading plugin /opt/HPCCSystems/plugins/libdebugservices.so[lib_debugservices] version = DEBUGSERVICES 1.0.1
+00000010 2015-05-11 12:44:08  9136  9136 Loading plugin /opt/HPCCSystems/plugins/libworkunitservices.so[lib_WORKUNITSERVICES] version = WORKUNITSERVICES 1.0.1
+00000011 2015-05-11 12:44:08  9136  9136 Loading plugin /opt/HPCCSystems/plugins/libunicodelib.so[lib_unicodelib] version = UNICODELIB 1.1.06
+00000012 2015-05-11 12:44:08  9136  9136 Plugin /opt/HPCCSystems/plugins/libv8embed.so exports getECLPluginDefinition but does not export ECL - not loading
